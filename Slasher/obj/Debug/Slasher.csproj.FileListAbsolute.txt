@@ -1,0 +1,12 @@
+C:\Users\izanb\source\repos\Slasher\Slasher\bin\Debug\Slasher.exe.config
+C:\Users\izanb\source\repos\Slasher\Slasher\bin\Debug\Slasher.exe
+C:\Users\izanb\source\repos\Slasher\Slasher\bin\Debug\Slasher.pdb
+C:\Users\izanb\source\repos\Slasher\Slasher\bin\Debug\EasyExploits.dll
+C:\Users\izanb\source\repos\Slasher\Slasher\obj\Debug\Slasher.csprojAssemblyReference.cache
+C:\Users\izanb\source\repos\Slasher\Slasher\obj\Debug\Slasher.Form1.resources
+C:\Users\izanb\source\repos\Slasher\Slasher\obj\Debug\Slasher.Properties.Resources.resources
+C:\Users\izanb\source\repos\Slasher\Slasher\obj\Debug\Slasher.csproj.GenerateResource.cache
+C:\Users\izanb\source\repos\Slasher\Slasher\obj\Debug\Slasher.csproj.CoreCompileInputs.cache
+C:\Users\izanb\source\repos\Slasher\Slasher\obj\Debug\Slasher.csproj.CopyComplete
+C:\Users\izanb\source\repos\Slasher\Slasher\obj\Debug\Slasher.exe
+C:\Users\izanb\source\repos\Slasher\Slasher\obj\Debug\Slasher.pdb
